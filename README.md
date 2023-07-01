@@ -1,3 +1,3 @@
-www.shahepay.site
+www.shahepay.cloud
 
 master website for shahepay
